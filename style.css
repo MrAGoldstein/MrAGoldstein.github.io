@@ -1,0 +1,66 @@
+#nav{
+    top:0;
+    width: 100%;
+    height: 100px;
+}
+
+.nav-items {
+    display:flex;
+}
+
+.nav-item {
+    padding: 20px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.link {
+
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+
+.header {
+    display: flex;
+}
+
+#blankHeader {
+    width: 2%;
+}
+
+.title {
+    width:83%;
+    display: flex;
+}
+
+
+.name {
+    font-size: 25px;
+    margin:10px;
+}
+
+.pageLinks {
+    display: flex;
+    justify-self:right;
+    width: 15%;
+    margin-right: 10px;
+}
+
+.not-nav {
+    font-size: 30px;
+    color: white;
+    font-family: 'Rhodyn Chalk Rhodyn Chalk', "Script MT Bold", cursive;
+    margin: 10px;
+}
+
+#body {
+    background-color: #497959;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+}
