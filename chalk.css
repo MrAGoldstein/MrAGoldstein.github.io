@@ -2,6 +2,5 @@
 font-family: 'Chalk';
 font-style: normal;
 font-weight: normal;
-/*src: local('Rhodyn Chalk Rhodyn Chalk'), url('Rhodyn Chalk.woff') format('woff');*/
 src: url('chalk.woff') format('woff');
 }
