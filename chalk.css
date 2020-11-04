@@ -1,29 +1,7 @@
-@import url(//db.onlinewebfonts.com/c/e2eeea27aafb8c79bce5ec295578075e?family=DJB+CHALK+IT+UP);
-@import url(//db.onlinewebfonts.com/c/4d2219146ef1f8007ff08feba87da235?family=chalkie);
-
 @font-face {
-font-family: 'Rhodyn Chalk Rhodyn Chalk';
+font-family: 'Chalk';
 font-style: normal;
 font-weight: normal;
-src: local('Rhodyn Chalk Rhodyn Chalk'), url('Rhodyn Chalk.woff') format('woff');
-}
-
-@font-face {
-    font-family: "DJB CHALK IT UP";
-    src: url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.eot");
-    src: url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/e2eeea27aafb8c79bce5ec295578075e.svg#DJB CHALK IT UP") format("svg");
-}
-
-@font-face {
-    font-family: "chalkie";
-    src: url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.eot");
-    src: url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/4d2219146ef1f8007ff08feba87da235.svg#chalkie") format("svg");
+/*src: local('Rhodyn Chalk Rhodyn Chalk'), url('Rhodyn Chalk.woff') format('woff');*/
+src: url('chalk.woff') format('woff');
 }

@@ -52,10 +52,9 @@
 .not-nav {
     font-size: 30px;
     color: white;
-    font-family: 'Rhodyn Chalk Rhodyn Chalk', "Script MT Bold", cursive;
+    font-family: 'Chalk', "Script MT Bold", cursive;
     margin: 10px;
 }
-
 #body {
     background-color: #497959;
 }
@@ -63,4 +62,10 @@
 .header {
     font-size: 40px;
     text-align: center;
+    display:flex;
 }
+
+.info {
+    float: top;
+}
+
